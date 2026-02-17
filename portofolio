@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Portofolio Industri | SPLI</title>
+<meta name="description" content="Portofolio layanan pengangkutan Limbah B3 berbagai sektor industri.">
+
+<link rel="stylesheet" href="css/style.css">
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+<div class="container nav">
+<div class="logo">SPLI</div>
+<nav>
+<a href="index.html">Beranda</a>
+<a href="tentang-kami.html">Tentang</a>
+<a href="layanan.html">Layanan</a>
+<a href="legalitas.html">Legalitas</a>
+<a href="portofolio.html">Portofolio</a>
+<a href="kontak.html">Kontak</a>
+</nav>
+</div>
+</header>
+
+<section class="section">
+<div class="container center">
+<h1 data-aos="fade-up">Portofolio & Sektor Industri</h1>
+<p data-aos="fade-up">Kami melayani berbagai sektor industri di Indonesia.</p>
+</div>
+</section>
+
+<section class="section bg-light">
+<div class="container grid-3">
+
+<div class="card" data-aos="zoom-in">
+<h3>Manufaktur</h3>
+<p>Pengangkutan limbah proses produksi dan bahan kimia.</p>
+</div>
+
+<div class="card" data-aos="zoom-in" data-aos-delay="200">
+<h3>Rumah Sakit</h3>
+<p>Pengelolaan limbah medis dan B3 sesuai regulasi.</p>
+</div>
+
+<div class="card" data-aos="zoom-in" data-aos-delay="400">
+<h3>Pertambangan</h3>
+<p>Pengangkutan limbah operasional dan bahan berbahaya.</p>
+</div>
+
+</div>
+</section>
+
+<footer class="footer">
+<div class="container center">
+<p>© 2026 PT. Sarana Pamunah Limbah Indonesia</p>
+</div>
+</footer>
+
+<a href="https://wa.me/628116588817" class="wa-float" target="_blank">💬</a>
+
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>AOS.init({duration:1000,once:true});</script>
+
+</body>
+</html>
