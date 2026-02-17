@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
-<head>
+<head><link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Jasa Pengangkutan Limbah B3 Resmi | SPLI</title>
@@ -8,7 +9,14 @@
 
 <link rel="stylesheet" href="css/style.css">
 <link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
-</head>
+</head><link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
 
 <body>
 
@@ -64,6 +72,13 @@
 
 <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
 <script>AOS.init({duration:1000,once:true});</script>
+<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init({
+    duration: 1000,
+    once: true
+  });
+</script>
 
 </body>
 </html>
