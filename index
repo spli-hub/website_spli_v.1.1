@@ -1,116 +1,48 @@
 <!DOCTYPE html>
 <html lang="id">
-<head><link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
-
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Pengangkutan Limbah B3 Berizin | PT. SPLI</title>
-<meta name="description" content="Jasa pengangkutan Limbah B3 berizin resmi KLHK & Kemenhub dengan sistem pelaporan SIMPEL terintegrasi.">
+<title>Pengangkutan Limbah B3 Berizin | PT. Sarana Pamunah Limbah Indonesia</title>
+<meta name="description" content="Jasa pengangkutan Limbah B3 berizin resmi KLHK & Kemenhub dengan sistem pelaporan SIMPEL terintegrasi dan armada tersertifikasi.">
 
 <link rel="stylesheet" href="css/style.css">
-</head><link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
-<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({
-    duration: 1000,
-    once: true
-  });
-</script>
-<a href="https://wa.me/628116588817" class="wa-float" target="_blank">
-    💬
-</a>
-<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({
-    duration: 1000,
-    once: true
-  });
-</script>
+<!-- AOS Animation CSS -->
+<link href="https://unpkg.com/aos@2.3.4/dist/aos.css" rel="stylesheet">
 
+</head>
 <body>
 
+<!-- HEADER -->
 <header class="header">
     <div class="container nav">
         <div class="logo">SPLI</div>
         <nav>
-            <a href="index.html">Beranda</a>
-            <a href="tentang-kami.html">Tentang</a>
-            <a href="layanan.html">Layanan</a>
-            <a href="legalitas.html">Legalitas</a>
-            <a href="portofolio.html">Portofolio</a>
-            <a href="kontak.html">Kontak</a>
+            <a href="#">Beranda</a>
+            <a href="#">Tentang</a>
+            <a href="#">Layanan</a>
+            <a href="#">Legalitas</a>
+            <a href="#">Kontak</a>
             <a href="#" class="btn-cta">Client Portal</a>
         </nav>
     </div>
 </header>
 
+<!-- HERO -->
 <section class="hero">
-    <div class="container">
-        <h1>Solusi Pengangkutan Limbah B3 Berizin & Terpercaya</h1>
-        <p>Didukung izin resmi KLHK, Kemenhub, serta sistem pelaporan SIMPEL terintegrasi.</p>
-        <a href="kontak.html" class="btn-primary">Konsultasi Gratis</a>
-    </div>
-</section>
-
-<section class="section">
     <div class="container center">
-        <h2>Mitra Legal Compliance Limbah B3</h2>
-        <p>Kami membantu perusahaan memenuhi kewajiban lingkungan sesuai regulasi nasional secara aman dan profesional.</p>
+        <h1 data-aos="fade-up">
+            Solusi Pengangkutan Limbah B3 Berizin & Terpercaya
+        </h1>
+        <p data-aos="fade-up" data-aos-delay="200">
+            Didukung izin resmi KLHK & Kemenhub serta sistem pelaporan SIMPEL terintegrasi.
+        </p>
+        <a href="#" class="btn-primary" data-aos="fade-up" data-aos-delay="400">
+            Konsultasi Gratis
+        </a>
     </div>
 </section>
 
-<section class="section bg-light">
-    <div class="container grid-3">
-        <div class="card">
-            <h3>Berizin Resmi</h3>
-            <p>Rekomendasi KLHK & Izin Pengangkutan Kemenhub.</p>
-        </div>
-        <div class="card">
-            <h3>Armada Tersertifikasi</h3>
-            <p>Pengemudi bersertifikat & GPS tracking.</p>
-        </div>
-        <div class="card">
-            <h3>Sistem Terintegrasi</h3>
-            <p>SIMPEL & FESTRONIK aktif.</p>
-        </div>
-    </div>
-</section>
-
-<section class="cta">
-    <div class="container center">
-        <h2>Butuh Pengangkutan Limbah B3 yang Aman & Legal?</h2>
-        <a href="kontak.html" class="btn-primary">Hubungi Tim Kami</a>
-    </div>
-</section>
-
-<footer class="footer">
-    <div class="container footer-grid">
-        <div>
-            <h4>SPLI</h4>
-            <p>Perusahaan pengangkutan Limbah B3 berizin nasional.</p>
-        </div>
-        <div>
-            <h4>Menu</h4>
-            <a href="tentang-kami.html">Tentang</a><br>
-            <a href="layanan.html">Layanan</a><br>
-            <a href="legalitas.html">Legalitas</a>
-        </div>
-        <div>
-            <h4>Kontak</h4>
-            <p>0811-6588-817</p>
-            <p>pt.spli06@gmail.com</p>
-        </div>
-    </div>
-</footer>
-<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
-<script>
-  AOS.init({
-    duration: 1000,
-    once: true
-  });
-</script>
-
-</body>
-</html>
+<!-- ABOUT -->
